@@ -13,4 +13,4 @@
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Analista de Sistemas em formação, aluno da Uniruy Wyden, aluno do ONE NEXT EDUCATION, futuro dev Java/Spring! Estudante de inglês autodidata.
+Analista de Sistemas em formação, aluno da Uniruy Wyden, futuro dev Java/Spring! Estudante de inglês autodidata.
