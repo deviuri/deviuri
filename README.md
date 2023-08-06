@@ -14,4 +14,4 @@
 <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div><br/>
 
-Desenvolvedor Java com experiência em desenvolvimento de API's e microserviços usando Java8+ e Spring Boot. Estou formando em Análise e Desenvolvimento de Sistemas pela Uniruy Wyden.
+Desenvolvedor Java com experiência em desenvolvimento de APIs e microserviços usando Java 8+ e Spring Boot. Estou formando em Análise e Desenvolvimento de Sistemas pela Universidade Católica do Salvador.
